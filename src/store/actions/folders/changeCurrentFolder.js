@@ -1,23 +1,11 @@
 import actions from '../actionTypes';
 import data from '../../../data/mailData.json';
 
-export default function loadMessages(folderId) {
+export default function changeCurrentFolder(folderId) {
     return (dispatch) => {
         dispatch({
-            type: actions.MESSAGES_LOADING_PENDING
+            type: actions.CURRENT_FOLDER_CHANGE,
+            id: folderId,
         });
-
-        setTimeout(() => {
-            try {
-                dispatch({
-                    type: actions.MESSAGES_LOADING_SUCCESS,
-                    messages: data[folderId].messages
-                });
-            } catch(e) {
-                dispatch({
-                    type: actions.MESSAGES_LOADING_ERROR,
-                })
-            }
-        }, 500);
     };
 }

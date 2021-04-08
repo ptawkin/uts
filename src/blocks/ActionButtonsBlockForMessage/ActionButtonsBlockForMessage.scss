@@ -1,0 +1,17 @@
+.action-buttons-block {
+  display: flex;
+  align-items: center;
+  height: 105px;
+  border-bottom: 1px solid #f4f4f4;
+
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 45px;
+    margin-right: 10px;
+    border: 1px solid #8E8E93;
+    border-radius: 50%;
+  }
+}

@@ -1,11 +1,11 @@
 import actions from '../actionTypes';
 import data from '../../../data/mailData.json';
 
-export default function changeCurrentFolder(folderId) {
+export default function changeCurrentMessage(messageId) {
     return (dispatch) => {
         dispatch({
-            type: actions.CURRENT_FOLDER_CHANGE,
-            id: folderId,
+            type: actions.CURRENT_MESSAGE_CHANGE,
+            id: messageId,
         });
     };
 }

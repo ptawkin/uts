@@ -1,4 +1,82 @@
-.inbox {
-  min-width: 375px;
+.messages-list {
+  flex: 0 0 auto;
+  width: 375px;
+  padding: 30px 0 0 0;
   background-color: #f9f9f9;
+  box-sizing: border-box;
+  overflow: scroll;
+
+  &__header {}
+
+  &__header-name {
+    margin-bottom: 10px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+  }
+
+  &__empty {
+    margin-top: 10px;
+    padding: 22px 0 24px 30px;
+    color: #4C4F59;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+  }
+}
+
+.message-preview {
+  padding: 22px 25px 24px 30px;
+
+  &__header,
+  &__body {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__header {
+    margin-bottom: 9px;
+    color: #4C4F59;
+  }
+
+  &__title {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+  }
+
+  &__body {}
+
+  &__author {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 15px;
+    text-align: left;
+    color:#A3A3A8;
+  }
+
+  &__date {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    color: #4C4F59;
+  }
+
+  &_active,
+  &:hover,
+  &:focus,
+  &:active {
+    padding-left: 27px;
+    background: #fff;
+    border-left: 3px solid #379AFF;
+    cursor: pointer;
+  }
 }

@@ -1,10 +1,10 @@
-export default function getFolderNameById(state, id) {
-    if (state.folders && state.folders.foldersList) {
-        const folders = state.folders.foldersList;
+export default function getMessageNameById(state, id) {
+    if (state.messages && state.messages.messagesList) {
+        const messages = state.messages.messagesList;
 
-        for (let folder in folders) {
-            if (folders[folder].id === id) {
-                return folders[folder].name;
+        for (let message in messages) {
+            if (messages[message].id === id) {
+                return messages[message];
             }
         }
     }

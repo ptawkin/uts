@@ -1,0 +1,31 @@
+.lists {
+  margin: 20px 21px 0 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f4f4f4;
+
+
+  &__header {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #8F929D;
+    text-transform: uppercase;
+  }
+
+  &__item {
+    display: flex;
+    margin-bottom: 20px;
+
+    &:hover,
+    &:active {
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 700;
+      color: #4C4F59;
+      cursor: pointer;
+    }
+  }
+}

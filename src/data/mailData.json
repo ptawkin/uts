@@ -1,0 +1,189 @@
+{
+  "inbox": {
+    "id": "inbox",
+    "name": "Inbox",
+    "messages": [
+      {
+        "id": "0",
+        "author": "Salman Shah",
+        "avatar": "/my-app/src/img/ava.png",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 07 2021 10:34",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "1",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Nextmail New Look",
+        "date": "Apr 06 2021 11:52",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "2",
+        "author": "Aisha Dialo",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Interview with Shopify ",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "3",
+        "author": "Netflix",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Narcos Season 2",
+        "date": "Apr 01 2021 12:09",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "4",
+        "author": "TechCrunch",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Top Stories of the Day",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "5",
+        "author": "Goodreads",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Updates from Kevin",
+        "date": "Apr 03 2021 14:43",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "6",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Startup 2016",
+        "date": "Apr 02 2021 15:45",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "7",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 04 2021 16:41",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "8",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 18:23",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "9",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "10",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "11",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      }
+    ]
+  },
+  "sentMail": {
+    "id": "sentMail",
+    "name": "Sent Mail",
+    "messages": [
+      {
+        "id": "12",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "13",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Nextmail New Look",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": [
+          {
+            "fileName": "Sample.pdf",
+            "fileUrl": "/src/data/attachments/Sample.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "drafts": {
+    "id": "drafts",
+    "name": "Drafts",
+    "messages": []
+  },
+  "trash": {
+    "id": "trash",
+    "name": "Trash",
+    "messages": [
+      {
+        "id": "14",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Design Language",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      },
+      {
+        "id": "15",
+        "author": "Salman Shah",
+        "avatar": "",
+        "email": "shah.salman4@gmail.com",
+        "title": "Nextmail New Look",
+        "date": "Apr 08 2021 23:49",
+        "text": "Hello Adithya,\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\nCheers\nDesignAvenger\n \n",
+        "attachments": []
+      }
+    ]
+  }
+}
