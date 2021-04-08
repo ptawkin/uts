@@ -18,5 +18,12 @@
     border: 1px solid #00B96E;
     border-radius: 100px;
     box-sizing: border-box;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: #01a562;
+      cursor: pointer;
+    }
   }
 }

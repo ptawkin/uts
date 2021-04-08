@@ -82,7 +82,7 @@ function Message(props) {
                             Reply
                         </button>
 
-                        <button className={'message__button message__button_farward'}>
+                        <button className={'message__button message__button_forward'}>
                             Forward
                         </button>
                     </div>
