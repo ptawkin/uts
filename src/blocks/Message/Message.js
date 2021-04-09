@@ -28,9 +28,11 @@ function Message(props) {
 
     return (
         <div className={'message'}>
-            <div className={'message__action-block'}>
-                <ActionButtonsBlockForMessage/>
-            </div>
+            {messageContent && (
+                <div className={'message__action-block'}>
+                    <ActionButtonsBlockForMessage/>
+                </div>
+            )}
 
             {messageContent && (
                 <div className={'message__content'}>
@@ -68,7 +70,7 @@ function Message(props) {
                     <div className={'message__text'}>
                         {messageText.map((text) => {
                             return (
-                                <p> { text } </p>
+                                <p> {text} </p>
                             )
                         })}
                     </div>
